@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codeelan-deploy/static/css/main.9ae7f124.css",
-    "main.js": "/codeelan-deploy/static/js/main.90dbd463.js",
+    "main.js": "/codeelan-deploy/static/js/main.5f43cddb.js",
     "static/js/787.2ea5e436.chunk.js": "/codeelan-deploy/static/js/787.2ea5e436.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/codeelan-deploy/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/codeelan-deploy/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -40,11 +40,11 @@
     "static/media/logo-5.svg": "/codeelan-deploy/static/media/logo-5.6fa6ab2bbc8b44393b3788253809415e.svg",
     "index.html": "/codeelan-deploy/index.html",
     "main.9ae7f124.css.map": "/codeelan-deploy/static/css/main.9ae7f124.css.map",
-    "main.90dbd463.js.map": "/codeelan-deploy/static/js/main.90dbd463.js.map",
+    "main.5f43cddb.js.map": "/codeelan-deploy/static/js/main.5f43cddb.js.map",
     "787.2ea5e436.chunk.js.map": "/codeelan-deploy/static/js/787.2ea5e436.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae7f124.css",
-    "static/js/main.90dbd463.js"
+    "static/js/main.5f43cddb.js"
   ]
 }
